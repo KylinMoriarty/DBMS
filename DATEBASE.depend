@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1467115823 source:e:\codeblocks\临时文件\datebase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<conio.h>
+	<sstream>
+	<io.h>
+	"View.h"
+	"Data.h"
+	"Index.h"
+	"Table.h"
+	"User.h"
+
+1466672175 e:\codeblocks\临时文件\datebase\view.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+
+1466688935 e:\codeblocks\临时文件\datebase\data.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<iomanip>
+
+1466669586 e:\codeblocks\临时文件\datebase\index.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	"Data.h"
+
+1466672175 e:\codeblocks\临时文件\datebase\table.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+
+1466733368 e:\codeblocks\临时文件\datebase\user.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<iomanip>
+
+1467115823 source:g:\学习\数据库\datebase\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+	<iomanip>
+	<conio.h>
+	<sstream>
+	<io.h>
+	"View.h"
+	"Data.h"
+	"Index.h"
+	"Table.h"
+	"User.h"
+
+1466672175 g:\学习\数据库\datebase\view.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+
+1466688935 g:\学习\数据库\datebase\data.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<iomanip>
+
+1466669586 g:\学习\数据库\datebase\index.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	"Data.h"
+
+1466672175 g:\学习\数据库\datebase\table.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+
+1466733368 g:\学习\数据库\datebase\user.h
+	<iostream>
+	<cstring>
+	<cstdio>
+	<malloc.h>
+	<stdlib.h>
+	<iomanip>
+
